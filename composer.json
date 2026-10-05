@@ -5,11 +5,11 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.4",
-		"automattic/jetpack-connection": "^9.9.0-alpha",
+		"automattic/jetpack-connection": "^9.9.0",
 		"automattic/jetpack-plugins-installer": "^0.6.0",
-		"automattic/jetpack-sync": "^5.4.0-alpha",
+		"automattic/jetpack-sync": "^5.4.0",
 		"automattic/jetpack-protect-models": "^0.7.0",
-		"automattic/jetpack-plans": "^0.14.0-alpha"
+		"automattic/jetpack-plans": "^0.14.0"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
