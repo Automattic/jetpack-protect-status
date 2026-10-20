@@ -5,15 +5,15 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.4",
-		"automattic/jetpack-connection": "^9.12.1",
-		"automattic/jetpack-plugins-installer": "^0.6.0",
-		"automattic/jetpack-sync": "^5.4.2",
-		"automattic/jetpack-protect-models": "^0.7.1",
+		"automattic/jetpack-connection": "^9.12.2-alpha",
+		"automattic/jetpack-plugins-installer": "^0.6.1-alpha",
+		"automattic/jetpack-sync": "^5.4.3-alpha",
+		"automattic/jetpack-protect-models": "^0.7.2-alpha",
 		"automattic/jetpack-plans": "^0.15.0-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
-		"automattic/phpunit-select-config": "^1.0.11"
+		"automattic/phpunit-select-config": "^1.0.12-alpha"
 	},
 	"autoload": {
 		"classmap": [
@@ -37,7 +37,6 @@
 		}
 	},
 	"extra": {
-		"autotagger": true,
 		"branch-alias": {
 			"dev-trunk": "0.9.x-dev"
 		},
